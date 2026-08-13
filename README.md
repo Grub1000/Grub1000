@@ -1,5 +1,4 @@
-Hi there 👋 I'm Jorge Ramirez
-Full Stack Software Engineer • AI & Machine Learning Engineer
+Hi there 👋 I'm Jorge Ramirez • Full Stack Software Engineer • AI & Machine Learning Engineer
 
 I'm a software engineer with a Bachelor's and Master's degree in Computer Science specializing in Artificial Intelligence and Machine Learning. I enjoy building scalable full-stack applications, developing machine learning solutions, and deploying production-ready software using modern cloud technologies.
 
