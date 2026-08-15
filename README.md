@@ -2,7 +2,7 @@ Hi there 👋 I'm Jorge Ramirez • Full Stack Software Engineer • AI & Machin
 
 I'm a software engineer with a Bachelor's and Master's degree in Computer Science specializing in Artificial Intelligence and Machine Learning. I enjoy building scalable full-stack applications, developing machine learning solutions, and deploying production-ready software using modern cloud technologies.
 
-🚀 Currently Building: Resume Analyzer Platform
+🚀 Currently Building: Resume Analyzer Platform and (Ghost Mannequin / Background Remover Platform)
 
 🌱 Currently Learning: Advanced AWS Architecture, Distributed Systems, and LLM Applications
 
