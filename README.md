@@ -6,9 +6,9 @@ I'm a software engineer with Bachelor's and Master's degrees in Computer Science
 
 I enjoy building production-ready full-stack applications, developing AI/ML systems, and deploying cloud-based software using modern engineering technologies.
 
-🧠 **Recently Built:** **RAGspace** — a full-stack Retrieval-Augmented Generation platform for chatting with private document collections using semantic search, reranking, persistent conversations, and page-level source citations.
+🧠 **Recently Built:** **[RAGspace](https://jorgeramirez.net/ragspace)** — a full-stack Retrieval-Augmented Generation platform for chatting with private document collections using semantic search, reranking, persistent conversations, and page-level source citations.
 
-📄 **Also Built:** **ResuScan** — a full-stack resume analysis and job-tracking platform built with React, TypeScript, Django REST Framework, MySQL, and AWS.
+📄 **Also Built:** **[ResuScan](https://jorgeramirez.net/resuscan)** — a full-stack resume analysis and job-tracking platform built with React, TypeScript, Django REST Framework, MySQL, and AWS.
 
 🚀 **Currently Exploring:** Advanced RAG architectures, distributed systems, AI-powered applications, and scalable AWS infrastructure.
 
