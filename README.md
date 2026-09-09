@@ -10,7 +10,7 @@ I enjoy building production-ready full-stack applications, developing AI/ML syst
 
 📄 **Also Built:** **[ResuScan](https://jorgeramirez.net/resuscan)** — a full-stack resume analysis and job-tracking platform built with React, TypeScript, Django REST Framework, MySQL, and AWS.
 
-🚧 **Currently Building:** A **real-time chat platform** using React, Django, WebSockets, Django Channels, ASGI, Redis, and MySQL to explore real-time communication and distributed systems.
+🚧 Currently Building: Relay — a real-time messaging platform using React, TypeScript, Django, WebSockets, Django Channels, ASGI, Redis, and MySQL to explore real-time communication, distributed systems, and horizontally scalable application architecture.
 
 🚀 **Currently Exploring:** Advanced RAG architectures, distributed systems, AI-powered applications, and scalable AWS infrastructure.
 
@@ -20,9 +20,9 @@ I enjoy building production-ready full-stack applications, developing AI/ML syst
 
 ## 🚧 Currently Building
 
-### 💬 Real-Time Chat Platform
+### 💬 Relay
 
-**Real-Time Communication • WebSockets • Distributed Systems**
+Real-Time Messaging • WebSockets • Distributed Systems
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
@@ -32,11 +32,13 @@ I enjoy building production-ready full-stack applications, developing AI/ML syst
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 
-* Building a real-time messaging platform using **WebSockets, Django Channels, and ASGI** for persistent bidirectional communication.
-* Implementing **online presence, typing indicators, delivery/read receipts, persistent chat history, and multi-device connections**.
-* Using a **Redis-backed channel layer** for real-time event delivery between asynchronous Django consumers and application processes.
-* Exploring distributed-systems concepts including **message ordering, idempotency, reconnection, state synchronization, failure recovery, and horizontal scaling**.
-* Separating **ephemeral real-time events through Redis** from durable chat history and application state stored in **MySQL**.
+* Building Relay, a real-time messaging platform using WebSockets, Django Channels, and ASGI for persistent bidirectional communication.
+* Implementing online presence, typing indicators, delivery/read receipts, persistent chat history, unread state, and multi-device connections.
+* Using a Redis-backed channel layer for real-time event delivery between asynchronous Django Consumers and independent application workers.
+* Designing the application for horizontal scaling, allowing multiple Django workers and application servers to coordinate through shared Redis infrastructure.
+* Exploring distributed-systems concepts including message ordering, idempotency, reconnection, state synchronization, failure recovery, load balancing, and cross-process communication.
+* Separating ephemeral real-time events through Redis from durable conversations, messages, and application state stored in MySQL.
+* Designing an AWS deployment path supporting multiple EC2 application instances behind a load balancer, with infrastructure capable of using either self-hosted Redis/MySQL or Amazon ElastiCache and Amazon RDS.
 
 ---
 
